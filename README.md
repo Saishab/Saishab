@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saishab Bhattarai</h1>
-<h3 align="center">A passionate DataBase Engineer from Nepal</h3>
+<h3 align="center">A passionate Data Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishab&label=Profile%20views&color=0e75b6&style=flat" alt="saishab" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saishabbhattarai5@gmail.com**
 
-- ⚡ Fun fact **I eat stone sometime...**
+- ⚡ Fun fact **I hate coffee...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
