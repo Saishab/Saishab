@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saishab" alt="saishab" /></a> </p>
 
-- 🔭 I’m currently working on **Query Optimization for Big Data, Applied Machine Learning**
+- 🔭 I’m currently working on **Big Data and Applied Machine Learning**
 
 - 🌱 I’m currently learning **System Programming and Big Data Analytics**
 
